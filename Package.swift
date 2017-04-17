@@ -1,6 +1,5 @@
 import PackageDescription
 
 let package = Package(
-    name: "GEOSwift",
-    exclude: ["GEOSwiftTests"]
+    name: "GEOSwift"
 )
